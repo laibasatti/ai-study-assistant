@@ -27,9 +27,5 @@ Laiba Shahid — CS Student at Shifa Tameer-e-Millat University
 3. Run: `python -m streamlit run app.py`
 ```
 
----
 
-## Steps:
-**Step 1** — Go to:
-```
 github.com/laibasatti/ai-study-assistant
